@@ -1,0 +1,10 @@
+* Guide de l'agent public libriste 🧢
+
+Que faire pour promouvoir les logiciels libres quand on est agent public ?
+
+Ce dépôt contient des ressources pour répondre à cette question.
+
+* Licence
+
+2024 Bastien Guerry, [[https://creativecommons.org/licenses/by-sa/4.0/deed.fr][CC BY-SA 4.0]].
+
