@@ -5,8 +5,8 @@ public ?
 
 Ce dépôt contient des ressources pour répondre à cette question.
 
-En complément, vous pouvez consulter le dépôt sur des idées pour une
-[[https://github.com/bzg/politique-logiciels-libres-secteur-public][politique « logiciels libres » pour le secteur public]].
+En complément, vous pouvez consulter les propositions d'actions pour
+une [[https://github.com/bzg/politique-logiciels-libres-secteur-public][politique « logiciels libres » dans le secteur public]].
 
 * Licence
 
