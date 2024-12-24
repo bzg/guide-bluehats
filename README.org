@@ -1,8 +1,12 @@
 * Guide de l'agent public libriste 🧢
 
-Que faire pour promouvoir les logiciels libres quand on est agent public ?
+Que faire pour promouvoir les logiciels libres quand on est agent
+public ?
 
 Ce dépôt contient des ressources pour répondre à cette question.
+
+En complément, vous pouvez consulter le dépôt sur des idées pour une
+[[https://github.com/bzg/politique-logiciels-libres-secteur-public][politique « logiciels libres » pour le secteur public]].
 
 * Licence
 
