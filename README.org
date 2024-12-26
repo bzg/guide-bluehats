@@ -3,12 +3,13 @@
 Que faire pour promouvoir les logiciels libres quand on est agent
 public ?
 
-Ce dépôt contient des ressources pour répondre à cette question.
+Ce dépôt propose des réponses à cette question.
 
-En complément, vous pouvez consulter les propositions d'actions pour
-une [[https://github.com/bzg/politique-logiciels-libres-secteur-public][politique « logiciels libres » dans le secteur public]].
+En complément, vous pouvez consulter les [[https://github.com/bzg/politique-logiciels-libres-secteur-public/blob/main/idees.org][idées d'actions]] pour une
+politique « logiciels libres » dans le secteur public ou la [[https://github.com/bzg/politique-logiciels-libres-secteur-public/blob/main/frise.org][frise
+chronologique]] du libre dans l'administration.
 
 * Licence
 
-2024 Bastien Guerry, [[https://creativecommons.org/licenses/by-sa/4.0/deed.fr][CC BY-SA 4.0]].
+2024-2025 Bastien Guerry, [[https://creativecommons.org/licenses/by-sa/4.0/deed.fr][CC BY-SA 4.0]].
 
