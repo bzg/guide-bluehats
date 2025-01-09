@@ -9,6 +9,36 @@ En complément, vous pouvez consulter les [[https://github.com/bzg/politique-log
 politique « logiciels libres » dans le secteur public ou la [[https://github.com/bzg/politique-logiciels-libres-secteur-public/blob/main/frise.org][frise
 chronologique]] du libre dans l'administration.
 
+* Idées
+
+- Vous créer un compte sur [[https://joinmastodon.org/fr][Mastodon]] et suivre https://social.numerique.gouv.fr/@codegouvfr.
+- Lire [[https://code.gouv.fr/documentation/][la documentation proposée par code.gouv.fr]].
+- Créer un compte d'organisation sur une forge pour publier vos codes sources.
+- Déployer ou faire déployer une forge pour votre équipe/service/section/etc.
+- Participer aux [[https://code.gouv.fr/fr/bluehats/tags/atelier/][ateliers BlueHats]].
+- Faire connaître les [[https://code.gouv.fr/fr/bluehats/tags/atelier/][ateliers BlueHats]].
+- Vous inscrire sur le site du [[https://code.gouv.fr/sill/][socle interministériel de logiciels libres]].
+- Devenir référent pour un logiciel libre du SILL.
+- Demander à votre hiérarchie si vous pouvez utiliser un [[https://fr.wikipedia.org/wiki/Liste_de_syst%C3%A8mes_d%27exploitation_libres][système d'exploitation libre]] sur votre ordinateur.
+- En tant que manager d'une équipe technique, demander à votre équipe si elle contribue à des logiciels libres.
+- Contribuer à des logiciels libres existants.
+- Faire connaître vos contributions à vos collègues.
+- Identifier des logiciels libres critiques et fragiles utilisés par votre administration.
+- Découvrir et faire connaître la liste [[https://code.gouv.fr/sources/#/awesome][Awesome code.gouv.fr]].
+- Découvrir et faire connaître la liste des [[https://code.gouv.fr/fr/ospos/][OSPOs du secteur public]].
+- Faire des propositions d'idées pour une [[https://github.com/bzg/politique-logiciels-libres-secteur-public/blob/main/idees.org][politique logiciels libres]] dans le secteur public.
+- Faire des propositions d'idées pour cette liste.
+
+* Des actions à finalités diverses
+
+Ces actions "en vrac" peuvent être catégorisée selon leurs finalités :
+
+- Apprendre
+- Partager
+- Contribuer
+- Sensibiliser
+- Mobiliser votre administration
+
 * Licence
 
 2024-2025 Bastien Guerry, [[https://creativecommons.org/licenses/by-sa/4.0/deed.fr][CC BY-SA 4.0]].
