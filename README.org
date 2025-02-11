@@ -1,4 +1,4 @@
-* Guide de l'agent public libriste 🧢
+* Guide de l'agent public libriste
 
 Que faire pour promouvoir les logiciels libres quand on est agent
 public ?
@@ -9,11 +9,11 @@ En complément, vous pouvez consulter les [[https://github.com/bzg/politique-log
 politique « logiciels libres » dans le secteur public ou la [[https://github.com/bzg/politique-logiciels-libres-secteur-public/blob/main/frise.org][frise
 chronologique]] du libre dans l'administration.
 
-* Idées
+* Idées d'action
 
-- Vous créer un compte sur [[https://joinmastodon.org/fr][Mastodon]] et suivre https://social.numerique.gouv.fr/@codegouvfr.
+- Vous créer un compte sur [[https://joinmastodon.org/fr][Mastodon]] et suivre le compte [[https://social.numerique.gouv.fr/@codegouvfr][@codegouvfr]].
 - Lire [[https://code.gouv.fr/documentation/][la documentation proposée par code.gouv.fr]].
-- Créer un compte d'organisation sur une forge pour publier vos codes sources.
+- Créer un compte d'organisation sur une forge et y publier vos codes sources.
 - Déployer ou faire déployer une forge pour votre équipe/service/section/etc.
 - Participer aux [[https://code.gouv.fr/fr/bluehats/tags/atelier/][ateliers BlueHats]].
 - Faire connaître les [[https://code.gouv.fr/fr/bluehats/tags/atelier/][ateliers BlueHats]].
@@ -28,8 +28,9 @@ chronologique]] du libre dans l'administration.
 - Découvrir et faire connaître la liste des [[https://code.gouv.fr/fr/ospos/][OSPOs du secteur public]].
 - Faire des propositions d'idées pour une [[https://github.com/bzg/politique-logiciels-libres-secteur-public/blob/main/idees.org][politique logiciels libres]] dans le secteur public.
 - Faire des propositions d'idées pour cette liste.
+- Faire connaître le [[https://bluehats.global/manifesto/][manifeste #BlueHats]] 🧢
 
-* Des actions à finalités diverses
+* Des finalités diverses
 
 Ces actions "en vrac" peuvent être catégorisée selon leurs finalités :
 
