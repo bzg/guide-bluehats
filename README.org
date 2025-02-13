@@ -1,3 +1,5 @@
+[[https://bluehats.global][https://img.shields.io/badge/We%20support-BlueHats-blue.svg]]
+
 * Guide de l'agent public libriste
 
 Que faire pour promouvoir les logiciels libres quand on est agent
